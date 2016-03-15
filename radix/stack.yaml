@@ -1,6 +1,7 @@
 flags: {}
 packages:
 - '.'
+- /home/alois/oss/hs-certificate/x509-store
 extra-deps: [msgpack-1.0.0]
 resolver: lts-5.5
 nix:

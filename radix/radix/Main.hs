@@ -1,6 +1,6 @@
 import Key
 
-main = mainKey
+main = readCert -- mainKey
 
 {--
 import Radix
