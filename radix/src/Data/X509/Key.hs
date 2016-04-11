@@ -1,4 +1,4 @@
-module Key where
+module Data.X509.Key where
 
 import Crypto.PubKey.RSA (generate)
 import Data.ASN1.BinaryEncoding

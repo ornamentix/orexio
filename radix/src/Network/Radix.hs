@@ -1,5 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
-module Radix where
+module Network.Radix where
 
 import Data.Text (Text)
 import Network.HTTP.Types.Status (status200)

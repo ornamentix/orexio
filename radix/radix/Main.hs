@@ -1,4 +1,4 @@
-import Key
+import Data.X509.Key
 
 main = readCert -- mainKey
 
